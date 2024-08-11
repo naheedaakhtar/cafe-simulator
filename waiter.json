@@ -1,0 +1,85 @@
+// JSON file that extracts individual sprite frames from spritesheet; exported to github page because it was giving me issues
+{
+  "frames": [{
+    "name": "spriteL-01",
+    "position":{
+      "x": 47,
+      "y": 23,
+      "w": 90, 
+      "h": 200
+    }
+  },
+  {
+     "name": "spriteL-02",
+      "position": {
+        "x": 313,
+        "y": 23,
+        "w": 90,
+        "h": 200
+      }
+  },
+    {
+    "name": "spriteL-03",
+      "position": {
+        "x": 579,
+        "y": 23,
+        "w": 90,
+        "h": 200
+      }
+    },
+    {
+      "name": "spriteL-04",
+      "position": {
+        "x": 885,
+        "y": 23,
+        "w": 90,
+        "h": 200
+      }
+    },
+    {
+      "name": "spriteL-05",
+      "position": {
+        "x": 1144,
+        "y": 23,
+        "w": 90,
+        "h": 200
+      }
+    },
+    {
+      "name": "spriteL-06",
+      "position": {
+        "x": 234,
+        "y": 23,
+        "w": 90,
+        "h": 200
+      }
+    },
+    {
+      "name": "spriteL-07",
+      "position": {
+        "x": 1680,
+        "y": 23,
+        "w": 90,
+        "h": 200
+      }
+    },
+    {
+      "name": "spriteL-08",
+      "position": {
+        "x": 1935,
+        "y": 23,
+        "w": 90,
+        "h": 200
+      }
+    },
+    {
+      "name": "spriteL-09",
+      "position": {
+        "x": 2205,
+        "y": 23,
+        "w": 90,
+        "h": 200
+      }
+    }
+  ]
+}
