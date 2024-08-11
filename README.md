@@ -5,10 +5,10 @@ You can view and interact with the live demo here: https://editor.p5js.org/nahee
 # Description
 This project simulates a café environment with the following features:
 
-Flocking customers using boid algorithms
-Animated waiter sprites moving across the screen
-Dynamic background that changes based on time of day
-Interactive elements where customers are attracted to the mouse position
+• Flocking customers using boid algorithms
+• Animated waiter sprites moving across the screen
+• Dynamic background that changes based on time of day
+• Interactive elements where customers are attracted to the mouse position
 
 # Files
 
@@ -20,10 +20,10 @@ style.css: Basic styling for the canvas
 
 # How It Works
 
-Customers (boids) move around the screen following flocking rules: separation, alignment, and cohesion.
-Waiters are animated sprites that move across the screen.
-The background color changes to simulate different times of day.
-Moving the mouse attracts the customers, influencing their movement.
+• Customers (boids) move around the screen following flocking rules: separation, alignment, and cohesion.
+• Waiters are animated sprites that move across the screen.
+• The background color changes to simulate different times of day.
+• Moving the mouse attracts the customers, influencing their movement.
 
 # Credits
 This project uses modified code and concepts from:
