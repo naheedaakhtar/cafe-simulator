@@ -22,17 +22,17 @@ This project simulates a café environment with the following features:
 
 # How It Works
 
-• Customers (boids) move around the screen following flocking rules: separation, alignment, and cohesion.
-• Waiters are animated sprites that move across the screen.
-• The background color changes to simulate different times of day.
-• Moving the mouse attracts the customers, influencing their movement.
+- Customers (boids) move around the screen following flocking rules: separation, alignment, and cohesion.
+- Waiters are animated sprites that move across the screen.
+- The background color changes to simulate different times of day.
+- Moving the mouse attracts the customers, influencing their movement.
 
 # Credits
 This project uses modified code and concepts from:
 
-The Coding Train's Flocking Simulation Challenge: YouTube Video
-The Coding Train's Animated Sprites Challenge: YouTube Video
-Universal LPC Sprite Sheet Character Generator for sprite assets: Website
+- The Coding Train's Flocking Simulation Challenge: YouTube Video
+- The Coding Train's Animated Sprites Challenge: YouTube Video
+- Universal LPC Sprite Sheet Character Generator for sprite assets: Website
 
 # License
 This project is open source and available under the MIT License.
