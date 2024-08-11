@@ -5,17 +5,17 @@ You can view and interact with the live demo here: https://editor.p5js.org/nahee
 # Description
 This project simulates a café environment with the following features:
 - Flocking customers using boid algorithms
--  Animated waiter sprites moving across the screen
-• Dynamic background that changes based on time of day
-• Interactive elements where customers are attracted to the mouse position
+- Animated waiter sprites moving across the screen
+- Dynamic background that changes based on time of day
+- Interactive elements where customers are attracted to the mouse position
 
 # Files
 
-sketch.js: Main p5.js sketch file containing setup, draw, and preload functions
-sprite.js: Contains the Sprite class for animated waiters
-boid.js: Implements the Boid class for customer flocking behavior
-index.html: HTML structure for the p5.js sketch
-style.css: Basic styling for the canvas
+- sketch.js: Main p5.js sketch file containing setup, draw, and preload functions
+- sprite.js: Contains the Sprite class for animated waiters
+- boid.js: Implements the Boid class for customer flocking behavior
+- index.html: HTML structure for the p5.js sketch
+- style.css: Basic styling for the canvas
 
 # How It Works
 
