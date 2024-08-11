@@ -1,5 +1,4 @@
 # sprite-artwork
-Certainly! I'd be happy to write a README for your GitHub page based on the files you've provided. Here's a draft:
 #Café Simulator
 A dynamic café simulation using p5.js, featuring flocking customers and animated waiters.
 #Demo
