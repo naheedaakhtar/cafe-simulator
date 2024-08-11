@@ -22,7 +22,7 @@ This project simulates a café environment with the following features:
 
 # How It Works
 
-- Customers (boids) move around the screen following flocking rules: separation, alignment, and cohesion.
+- Customers (boids) move around the screen following flocking rules: separation, alignment, and cohesion.
 - Waiters are animated sprites that move across the screen.
 - The background color changes to simulate different times of day.
 - Moving the mouse attracts the customers, influencing their movement.
