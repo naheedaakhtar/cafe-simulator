@@ -16,6 +16,9 @@ This project simulates a café environment with the following features:
 - boid.js: Implements the Boid class for customer flocking behavior
 - index.html: HTML structure for the p5.js sketch
 - style.css: Basic styling for the canvas
+- waiter.json: Stores coordinates of Sprite's movements
+- customer.png: Customer sprite from LPC Sprite Sheet
+- waiterSprite.png: Waiter sprite from LPC Sprite Sheet
 
 # How It Works
 
