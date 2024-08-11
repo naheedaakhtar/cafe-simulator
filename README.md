@@ -4,11 +4,8 @@ A dynamic café simulation using p5.js, featuring flocking customers and animate
 You can view and interact with the live demo here: https://editor.p5js.org/naheeda/sketches/Uoaluq0BV
 # Description
 This project simulates a café environment with the following features:
-• Flocking customer using boid algorithms
-• Animated waiter sprites moving across the screen
-
-• Flocking customers using boid algorithms
-• Animated waiter sprites moving across the screen
+- Flocking customers using boid algorithms
+-  Animated waiter sprites moving across the screen
 • Dynamic background that changes based on time of day
 • Interactive elements where customers are attracted to the mouse position
 
