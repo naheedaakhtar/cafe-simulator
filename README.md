@@ -1,4 +1,3 @@
-# sprite-artwork
 # Café Simulator
 A dynamic café simulation using p5.js, featuring flocking customers and animated waiters.
 # Demo
